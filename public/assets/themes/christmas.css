@@ -1,0 +1,17 @@
+#nav {
+    background-color: #00873E;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FA4659;
+}
+
+hr {
+    border-top: 1px solid #00873E;
+    padding: 0;
+    margin: 0;
+}
+
+#footer {
+    background: linear-gradient(#00873E, #FA4659);
+}
